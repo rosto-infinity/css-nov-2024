@@ -1,0 +1,23 @@
+
+/* selecteur element */
+h1{
+  color : red;
+  background-color:yellow;
+}
+h2{
+  color:green;
+  background-color:yellow;
+
+}
+b{
+  background-color: blue;
+  color:white;
+  padding: 10px;
+}
+p, span{
+  background-color: red;
+  color:white;
+  padding: 10px;
+}
+
+/* selecteur class */
