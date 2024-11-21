@@ -1,6 +1,6 @@
 
-/* selecteur element */
-h1{
+selecteur element */
+ h1{
   color : red;
   background-color:yellow;
 }
@@ -20,4 +20,27 @@ p, span{
   padding: 10px;
 }
 
+
+/* header h1,
+header p,
+header span,
+header a,
+header button{
+  color:red;
+} */
+
+
+header :is(h1,p,span,a,button){
+  color: blue; 
+}
+
+
+
+
 /* selecteur class */
+.titre-1{
+  /* color:black; */
+}
+
+/* selecteur class id  */
+
