@@ -44,3 +44,6 @@ header :is(h1,p,span,a,button){
 
 /* selecteur class id  */
 
+#title-1{
+  color: brown;
+}
